@@ -1,0 +1,24 @@
+{
+  "name": "bag-of-holding",
+  "version": "0.0.1",
+  "description": "A mysterious bag full of stories and other stuff!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bielsesa/bag-of-holding.git"
+  },
+  "keywords": [
+    "roleplay",
+    "roleplaying-web",
+    "roleplaying-games"
+  ],
+  "author": "Tekura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bielsesa/bag-of-holding/issues"
+  },
+  "homepage": "https://github.com/bielsesa/bag-of-holding#readme"
+}
