@@ -5,7 +5,7 @@ how are you all in this glorious day!
 
 I bestow upon thee the one and only, the infamous, Bag of Holding!
 Many try to imagine what it hides within its entrails, but few really, REALLY know what happens in here...
-And you, lucky one, are about to get that precious, inavualble knowledge.
+And you, lucky one, are about to get that precious, invaluable knowledge.
 
 Come closer, and take a look for yourself...
 
