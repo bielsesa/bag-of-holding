@@ -19,6 +19,7 @@ cool drawings... whatever you want to create and show the world, or something li
 ### What is the cool tech we are gonna use?
 
 - **Angular** as the frontend framework
+- **Sass** tho I have no idea how to use that
 - Maaaaaaaaaaaaaaaaaybe **GraphQL** for the API but if it's too difficult yknow, the classical restful api I'll ~~copy~~ gratefully look for... 
 - *PixiJS* could be a cool framework for graphics and stuff, but who knows if we'll need that really
 - **MongoDB** or **Firebase** for the database, maybe, I dunno
