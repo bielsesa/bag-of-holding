@@ -2,7 +2,7 @@
   "name": "bag-of-holding",
   "version": "0.0.1",
   "description": "A mysterious bag full of stories and other stuff!",
-  "main": "main.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,10 +15,13 @@
     "roleplaying-web",
     "roleplaying-games"
   ],
-  "author": "Tekura",
+  "author": "makoto",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bielsesa/bag-of-holding/issues"
   },
-  "homepage": "https://github.com/bielsesa/bag-of-holding#readme"
+  "homepage": "https://github.com/bielsesa/bag-of-holding#readme",
+  "dependencies": {
+    "@auth0/auth0-vue": "^1.0.0"
+  }
 }
